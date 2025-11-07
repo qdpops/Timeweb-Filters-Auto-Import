@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Timeweb Mail SIEVE → Filters Auto Import
 // @namespace    https://mail.timeweb.com/
-// @version      1.1
+// @version      1.2
 // @description  Импорт Sieve-фильтров в почту Timeweb автоматически с сохранением папок
 // @match        https://mail.timeweb.com/*
 // @run-at       document-idle
